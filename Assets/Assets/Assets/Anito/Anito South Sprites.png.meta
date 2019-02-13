@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: ad059ce975bfed34493475e74369e1f5
+timeCreated: 1454176865
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Anito South Sprites_0
+    21300002: Anito South Sprites_1
+    21300004: Anito South Sprites_2
+    21300006: Anito South Sprites_3
+    21300008: Anito South Sprites_4
+    21300010: Anito South Sprites_5
+    21300012: Anito South Sprites_6
+    21300014: Anito South Sprites_7
+    21300016: Anito South Sprites_8
+    21300018: Anito South Sprites_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Anito South Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 236
+        width: 300
+        height: 268
+      alignment: 9
+      pivot: {x: .493814707, y: .0845686495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 320
+        width: 81
+        height: 140
+      alignment: 9
+      pivot: {x: .484727651, y: .111208886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 215
+        width: 106
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .82663995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 123
+        width: 41
+        height: 65
+      alignment: 9
+      pivot: {x: .681033969, y: .814023316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 124
+        width: 41
+        height: 64
+      alignment: 9
+      pivot: {x: .318966746, y: .828594685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 195
+        height: 109
+      alignment: 9
+      pivot: {x: .807309031, y: .92662394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 20
+        width: 29
+        height: 57
+      alignment: 9
+      pivot: {x: .645699859, y: .870638907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 18
+        width: 73
+        height: 66
+      alignment: 9
+      pivot: {x: .126407146, y: .581479311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 21
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: .748545945, y: .774368823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito South Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 16
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: .889526784, y: .87298274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

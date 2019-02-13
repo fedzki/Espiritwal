@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 3c7b5fb8b8aa9c041aceea1c2e8e63e9
+timeCreated: 1454176937
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Anito West Sprites_0
+    21300002: Anito West Sprites_1
+    21300004: Anito West Sprites_2
+    21300006: Anito West Sprites_3
+    21300008: Anito West Sprites_4
+    21300010: Anito West Sprites_5
+    21300012: Anito West Sprites_6
+    21300014: Anito West Sprites_7
+    21300016: Anito West Sprites_8
+    21300018: Anito West Sprites_9
+    21300020: Anito West Sprites_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Anito West Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 298
+        height: 268
+      alignment: 9
+      pivot: {x: .432612538, y: .105798639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 410
+        width: 167
+        height: 96
+      alignment: 9
+      pivot: {x: .0775601491, y: .458920479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 200
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: .167589456, y: .85591495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 181
+        width: 60
+        height: 80
+      alignment: 9
+      pivot: {x: .160202533, y: .882272542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 55
+        height: 142
+      alignment: 9
+      pivot: {x: .475824654, y: .103603929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 52
+        height: 76
+      alignment: 9
+      pivot: {x: .474429935, y: .820747554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 84
+        width: 30
+        height: 60
+      alignment: 9
+      pivot: {x: .470452368, y: .847185016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 84
+        width: 24
+        height: 49
+      alignment: 9
+      pivot: {x: .5554021, y: .834672272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 116
+        width: 31
+        height: 54
+      alignment: 9
+      pivot: {x: .728755832, y: .844722629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 117
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: .523328304, y: .819526851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Anito West Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 205
+        height: 92
+      alignment: 9
+      pivot: {x: .819979191, y: .899856627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
